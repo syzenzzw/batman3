@@ -3,13 +3,6 @@
     padding: 0;
 }
 
-body{
-    
-        background-image: url(fundo.jpeg);
-        background-size: cover;
-    
-    
-}
 
   .centralizar{
     display: flex;
@@ -175,3 +168,5 @@ body{
   transition: 0.4s;
   transform: translateX(-56px);
 }
+
+
